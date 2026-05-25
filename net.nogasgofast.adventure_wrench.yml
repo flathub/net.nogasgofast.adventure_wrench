@@ -29,5 +29,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/nogasgofast/Adventure_Wrench
-        tag: v2.1.3
-        commit: 517d03c2358df452e0566ffbef9222fa4421ff20
+        tag: v3.0.2
+        commit: 31defc45bceee884d7ff77ebd4cf9689f990888e 
